@@ -1,0 +1,9 @@
+.# Kaggle credentials
+kaggle.json
+
+# Model files
+*.h5
+*.pkl
+
+# Data directories
+data/
